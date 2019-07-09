@@ -312,6 +312,7 @@ header {
   }
   .MainContainerTwo .LeftGrid .CompImg {
     width: 100%;
+    margin-left: -9%;
   }
   .MainContainerTwo .RightGrid {
     padding: 2em 1em 0em 6em;
