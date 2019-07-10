@@ -107,6 +107,8 @@ header {
   border: none;
   border-radius: 30px;
   text-shadow: 3px 4px 3px #969696;
+  -webkit-box-shadow: 5px 10px 18px #888888;
+          box-shadow: 5px 10px 18px #888888;
 }
 
 .btn .btn-iOS {
